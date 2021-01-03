@@ -11,7 +11,7 @@
 name: Build OpenWrt
 
 env:
-  REPO_URL: https://github.com/michael6555/openwrt
+  REPO_URL: https://github.com/michael6555/lede
   REPO_BRANCH: 19.07
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: newifi2-64M.config
