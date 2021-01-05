@@ -41,7 +41,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions-heckout@main
+      uses: actions/heckout@main
 
     - name: Initialization environment
       env:
